@@ -1,0 +1,12 @@
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/install/strip.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/install/local.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/install.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/rebuild_cache.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/tables.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/eidos.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/edit_cache.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/slim.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/list_install_components.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/eidos_zlib.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/kastore.dir
+/Users/ferguscurrie/Desktop/slim_build/build/CMakeFiles/gsl.dir

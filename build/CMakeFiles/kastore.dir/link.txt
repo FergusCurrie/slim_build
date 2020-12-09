@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libkastore.a CMakeFiles/kastore.dir/treerec/tskit/kastore/kastore.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libkastore.a
